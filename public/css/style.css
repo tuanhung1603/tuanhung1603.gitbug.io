@@ -1,0 +1,725 @@
+body
+{
+    margin-top: 20px;
+    font-size: 16px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+    padding-right: 20px;
+}
+.nav-link.contact
+{
+    border-right: 1px #e2e7e7 solid;
+}
+li
+{
+    padding-right: 20px;
+}
+i
+{
+    font-size: 8px;
+}
+.vohang
+{
+    background-color: #df453e;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.fa
+{
+    color: white;
+    font-size: 20px;
+    padding-top: 15px;
+    padding-left: 16px;
+}
+.soluong
+{
+    position: absolute;
+    left: auto;
+    top: 2px;
+    width: 16px;
+    background: #335154;
+    border-radius: 50%;
+    text-align: center;
+    height: 16px;
+    font-size: 10px;
+    color: white;
+    float: right;
+    margin-left: 35px;
+}
+.hinhmua
+{
+    display: flex;
+}
+.gia
+{
+    padding-top: 13px;
+    padding-left: 15px;
+    font-weight: bold;
+}
+.bande
+{
+    background-color: #f1f2f2;
+    margin-top: 50px;
+}
+.animated
+{
+    position: absolute;
+    left: 18%;
+    top: 40%;
+    font-weight: 700;
+    font-size: 24px;
+    height: 70px;
+    width: 70px;
+    font-family: Noto Sans, sans-serif;;
+    background-color: #df453e;
+    text-align: center;
+    color: white;
+    border-radius: 50%;
+    padding-top: 15px;
+}
+.gt1 ul
+{
+    column-count: 2;
+    list-style: none;
+    font-family: Montserrat Alternates, sans-serif;
+    padding: 0;
+}
+.gt1 ul li i
+{
+    font-size: 24px;
+    color: #df453e;
+    margin-right: 15px;
+}
+.gt1 ul li a
+{
+    font-size: 20px;
+    line-height: 28px;
+    font-weight: 700;   
+    text-decoration: none;
+    color: #335154;
+}
+h1
+{
+    color: #335154;
+    margin-top: 150px;
+    font-size: 55px;
+    font-family: Montserrat Alternates, sans-serif;
+    font-weight: 800;
+    margin-bottom: 30px;
+}
+.giaxe
+{
+    display: flex;
+    margin-top: 30px;
+}
+.giaxe span
+{
+    font-family: Montserrat Alternates, sans-serif;
+    color: #df453e;
+    line-height: 54px;
+    font-weight: 700;
+    font-size: 54px;
+    padding-right: 25px;
+}
+.giaxe a
+{
+    text-decoration: none;
+    border: 1px #df453e solid;
+    background-color: #df453e;
+    color: white;
+    font-family: Montserrat Alternates, sans-serif;
+    display: inline-block;
+    padding: 12px 18px 12px;
+}
+.nd1>h3
+{
+    color: #335154;
+    font-family: Montserrat Alternates, sans-serif;
+    font-size: 34px;
+    padding-top: 5px;
+}
+.ndtong
+{
+    text-align: center;
+    margin-top: 20px;
+    border-right: 2px solid #f0f2f2;
+    text-align: center;
+    padding: 50px 13%;
+}
+.ndp
+{
+    font-family: Noto Sans, sans-serif;
+}
+.nda 
+{
+    margin-top: 20px;
+    text-decoration: none;
+    color: #df453e;
+    font-family: Montserrat Alternates, sans-serif;
+    font-weight: 600;
+}
+.ndtong>h2
+{
+    color: #335154;
+    font-family: Montserrat Alternates, sans-serif;
+    text-align: left;
+    padding-top: 20px;
+    font-size: 44px;
+}
+.input1
+{
+    font-family: Noto Sans, sans-serif;
+    font-size: 15px;
+    border: 2px solid #e2e7e7;
+    height: 60px;
+    padding: 1em 18em 1em 1.8em;
+    color: #728385;
+    background-color: #f6f7f7;
+}
+.input2
+{
+    font-family: Montserrat Alternates, sans-serif;
+    color: #5d6b6d;
+    background-color: #335154;
+    border: 2px solid #335154;
+    font-size: 16px;
+    padding: 0 20px;
+}
+.form
+{
+    display: flex;
+}
+.ndh2
+{
+    font-family: Montserrat Alternates, sans-serif;
+    color: #335154;
+    text-align: center;
+    padding-top: 80px;
+    font-size: 52px;
+}
+.content1
+{
+    background-color: #f1f2f2;
+}
+.tenxe
+{
+    display: flex;
+}
+.t1 
+{
+    font-size: 20px;
+    font-family: Montserrat Alternates, sans-serif;
+    font-weight: 800;
+    color: #335154;
+    text-decoration: none;
+    display: block;
+    width:95%;
+}
+.t2>i
+{
+    padding-top: 5px;
+    font-weight: 800;
+    color: #335154;
+    width: 5%;
+}
+.giaxeduoi
+{
+    margin-top: 20px;
+}
+.giaxe1
+{
+    font-size: 20px;
+    color: #df453e;
+    line-height: 40px;
+    font-family: Montserrat Alternates, sans-serif;
+    font-weight: 800;
+    letter-spacing: 1.5px;
+}
+.view1
+{
+    padding: 22px 36px 22px;
+    text-decoration: none;
+    border: 1px #df453e solid;
+    background-color: #df453e;
+    color: white;
+    font-family: Montserrat Alternates, sans-serif;
+    display: inline-block;
+}
+.view
+{
+    text-align: center;
+    margin:50px 0;
+}
+.banner
+{
+    position: relative;
+    height: 100%;
+    background-color: #df453e;
+}
+.ttbanner
+{
+    position: absolute;
+    top: auto;
+    padding: 0 13.5%;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 2;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+}
+.ttbanner>h2
+{
+    font-family: Montserrat Alternates, sans-serif;
+    font-weight: 800;
+    font-size: 44px;
+    line-height: 54px;
+    color: white;
+    margin-bottom: 50px;
+}
+.getbanner>a
+{
+    text-decoration: none;
+    border: 1px #335154 solid;
+    background-color: #335154;
+    color: white;
+    font-family: Noto Sans, sans-serif;
+    display: inline-block;
+    font-weight: 600;
+    padding: 22px 36px 22px; 
+}
+.suachua
+{
+    text-align: center;
+    padding: 50px 13%;
+}
+.ttsuachua>h3
+{
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 1.25em;
+    padding: 0 20px;
+    color: #335154;
+    font-family: Montserrat Alternates, sans-serif;;
+}
+.ttsuachua
+{
+    margin-top: 20px;
+}
+.ttsuachua>p
+{
+    font-size: 16px;
+    margin-top: 20px;
+    margin-bottom: 0;
+    font-family: Noto Sans, sans-serif;
+}
+.suachuabutton
+{
+    margin-top: 20px;
+}
+.banhrang
+{
+    text-align: center;
+    padding: 50px 13%;
+    background-color: #335154;
+}
+.ttbanhrang>h3
+{
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 1.25em;
+    padding: 0 20px;
+    color: #335154;
+    font-family: Montserrat Alternates, sans-serif;
+    color: white;
+}
+.ttbanhrang
+{
+    margin-top: 20px;
+}
+.ttbanhrang>p
+{
+    font-size: 16px;
+    margin-top: 20px;
+    margin-bottom: 0;
+    font-family: Noto Sans, sans-serif;
+    color: #A3B4B7;
+}
+.banhrangbutton
+{
+    margin-top: 20px;
+}
+.our>h2
+{
+    font-size: 52px;
+    line-height: 62px;
+    color: #335154;
+    font-family: Montserrat Alternates, sans-serif;
+}
+.our
+{
+    text-align: center;
+    padding:60px 0;
+    background-color: #f1f2f2;
+}
+.content3
+{
+    background-color: #f1f2f2;
+}
+.content4
+{
+    text-align: center;
+    background-color: #335154;
+    padding: 30px 0;
+}
+.ttnv
+{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+.tongttnv
+{
+    padding: 80px;
+    text-align: center;
+    background-color: #fff;
+    margin-bottom: 80px;
+}
+.content5
+{
+    background-color: #f1f2f2;
+}
+.tennv>.p1 
+{
+    font-size: 20px;
+    font-family: Montserrat Alternates, sans-serif;
+    font-weight: 800;
+    color: #335154;
+}
+.tennv>.p2 
+{
+    font-family: Noto Sans, sans-serif;
+    color: #df453e;
+}
+.hinhnv
+{
+    border-radius: 50%;
+    overflow: hidden;
+    margin-right: 20px;
+    display: block;
+}
+.ndnv>p
+{
+    font-size: 16px;
+    font-family: Noto Sans, sans-serif;
+    color: #728385;
+    letter-spacing: 0.8px;
+    text-align: center;
+    margin-bottom: 30px
+}
+.danhgia>i
+{
+    color: #fcc902;
+    font-size: 18px;
+    padding: 0;
+}
+.our1
+{
+    text-align: center;
+    padding:60px 0;
+}
+.our1>h2
+{
+    font-size: 52px;
+    line-height: 62px;
+    color: #335154;
+    font-family: Montserrat Alternates, sans-serif;
+}
+.mauxe 
+{
+    padding: 20px 0;
+}
+.ttmauxe1>h3
+{
+    font-family: Montserrat Alternates, sans-serif;
+    font-weight: 800;
+    color: #335154;
+}
+.ttmauxe1
+{
+    padding: 30px 20px 0;
+}
+.ttmauxe1>p
+{
+    font-family: Noto Sans, sans-serif;
+    color: #728385;
+    font-size: 16px;
+}
+.coixe>a
+{
+    text-decoration: none;
+    padding: 22px 36px 22px;
+    border: 1px solid #df453e;
+    background-color: #df453e;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: Noto Sans, sans-serif;
+    color: white;
+}
+.coixe
+{
+    padding-top: 20px;
+}
+.ttmauxe2
+{
+    padding: 0 20px 50px 20px;
+}
+.ttmauxe2>h3
+{
+    font-family: Montserrat Alternates, sans-serif;
+    font-weight: 800;
+    color: #335154;
+}
+.ttmauxe2>p
+{
+    font-family: Noto Sans, sans-serif;
+    color: #728385;
+    font-size: 16px;
+}
+.content6
+{
+    margin-bottom: 80px;
+}
+.content7
+{
+    background-image: url(../images/book.jpg);
+    background-position: center;
+    position: relative;
+    padding: 50px;
+}
+.thuxe
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.dat>a
+{
+    text-decoration: none;
+    padding: 22px 36px 22px;
+    border: 1px solid #df453e;
+    background-color: #df453e;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: Noto Sans, sans-serif;
+    color: white;
+}
+.thump
+{
+    color: white;
+    font-family: Montserrat Alternates, sans-serif;
+    padding: 0;
+    font-weight: 800;
+}
+.thump>h2
+{
+    font-size: 52px;
+}
+footer
+{
+    background-color: #335154;
+    padding-top: 100px;
+}
+.lienketlogo
+{
+    margin-bottom: 20px;
+}
+.lienket>p
+{
+    font-family: Noto Sans, sans-serif;
+    color: #97adaf;
+    font-weight: 400;
+    margin-bottom: 15px;
+}
+.lienketweb>ul
+{
+    display: flex;
+    list-style: outside none none;
+    padding: 0;
+}
+.lienketweb>ul>li>a
+{
+    display: inline-block;
+    text-align: center;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    position: relative;
+    overflow: hidden;
+    background-color: #df453e;
+    border: 1px solid #df453e;
+}
+.lienketweb>ul>li>a>i
+{
+    padding: 0;
+}
+.lienketweb>ul>li
+{
+    margin-right: 5px;
+    padding: 0;
+}
+.lienketweb>h3
+{
+    font-size: 26px;
+    color: white;
+    margin: 0 0 25px;
+    font-weight: 600;
+    text-transform: capitalize;
+    font-family: Montserrat Alternates, sans-serif;
+}
+.ttweb>h3
+{
+    font-size: 20px;
+    color: white;
+    margin: 0 0 25px;
+    line-height: 1;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    font-family: Montserrat Alternates, sans-serif;
+}
+.footerweb
+{
+    display: flex;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #5D6B6D;
+}
+.ttfooter
+{
+    display: flex;
+}
+.footerh
+{    
+    margin-right: 15px;
+}
+.footerh>i
+{
+    font-size: 32px;
+    color: #df453e;
+}
+.thongtinf>h4
+{
+    font-family: Montserrat Alternates, sans-serif;
+    color: white;
+    font-weight: 600;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+.thongtinf>p
+{
+    font-family: Noto Sans, sans-serif;
+    color: #97adaf;
+}
+.footerweb1
+{
+    margin-top: 30px;
+    display: flex;
+    margin-bottom: 50px;
+}
+.thongtinf1>ul
+{
+    list-style: outside none none;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 20px;
+}
+.thongtinf1>ul>li>i
+{
+    font-size: 12px;
+    color: #97adaf;
+}
+.thongtinf1>ul>li>a
+{
+    color: #97adaf;
+    margin-left: 10px;
+    font-family: Noto Sans, sans-serif;
+    font-size: 16px;
+    text-decoration: none;
+}
+.footerbottom
+{
+    padding: 20px 0;
+    display: flex;
+    align-items: center;
+    border-top: 1px solid #5D6B6D;
+    justify-content: space-between;
+}
+.ftbt>p
+{
+    font-family: Montserrat Alternates, sans-serif;
+    color: white;
+}
+@media (max-width: 578px) {
+    .footerweb
+    {
+        display: block;
+    }
+    .footerweb1
+    {
+        display: block;
+    }
+    .input1
+    {
+        padding: 1em 2em 1em 1.8em;
+    }
+    .hangxe1
+    {
+        display: none;
+    }
+    .banner>a>img
+    {
+        height: 300px;
+    }
+    .thump>h2
+    {
+        font-size: 2rem;
+    }
+    .xe 
+    {
+        margin-top: 135px;
+    }
+    .animated
+    {
+        left: 80px;
+    }
+    h1
+    {
+        margin-top: 0;
+        font-size: 2rem;
+    }
+    .ndtong>h2
+    {
+        font-size: 2rem;
+    }
+}
+#scrollUp>i
+{
+    display: block;
+    line-height: 50px;
+    font-size: 22px;
+}
+#scrollUp {
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    color: #D9A84E;
+    right: 40px;
+    bottom: 40px;
+    text-align: center;
+    overflow: hidden;
+}
